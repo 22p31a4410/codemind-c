@@ -1,10 +1,9 @@
 #include<stdio.h>
 int main()
 {
-    int x,y,a;
+    int x,y;
     scanf("%d%d",&x,&y);
-    a=y*30;
-    if(x>a)
+    if(x>=y*30)
     {
         printf("YES");
     }
