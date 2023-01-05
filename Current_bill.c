@@ -16,7 +16,7 @@ int main()
     {
         bill=n*1.80;
     }
-    else 
+ else 
     {
         bill=n*2.00;
     }
@@ -32,4 +32,4 @@ int main()
         printf("%.2f",tb);
     }
     
-}
+} 
